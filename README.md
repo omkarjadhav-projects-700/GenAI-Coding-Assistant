@@ -70,15 +70,12 @@ This launches the main coding assistant interface where you can:
 
 ```
 
-Upload PDF documents containing code or technical documentation for enhanced context-aware responses.
-
 ## 📁 Project Structure
 
 ```
 ├── app.py                 # Main Streamlit coding assistant app
 ├── requirements.txt      # Python dependencies
-├── README.md            # Project documentation
-└── LICENSE              # License file
+└── README.md            # Project documentation
 ```
 
 ## 🤖 Supported Models
