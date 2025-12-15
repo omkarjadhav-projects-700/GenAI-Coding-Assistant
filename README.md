@@ -1,4 +1,4 @@
-# Gen-AI Code Companion
+# Gen-AI Coding Assistant
 
 A powerful AI-powered coding assistant built with Streamlit and Ollama, featuring multi-language support and RAG capabilities for enhanced code understanding.
 
